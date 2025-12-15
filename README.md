@@ -17,7 +17,7 @@ Project Repository
 All project-related resources, including the block diagram, circuit diagram, and complete Arduino source code for all modules, are available in the public GitHub repository. The repository is well-organized into separate folders for hardware diagrams and software programs, making it easy to understand and replicate the system.
 
 🔗 GitHub Repository:
-👉 https://github.com/SoumyaM2001/landmine-robot
+https://github.com/SoumyaM2001/landmine-robot
 
 Contents of the Repository:
 Block Diagram – Overall system architecture and module interconnections
