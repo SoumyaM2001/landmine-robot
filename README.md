@@ -1,9 +1,9 @@
 BLOCK 1: RADAR SYSTEM (Arduino UNO–1)
 Components
-•	Ultrasonic Sensor (HC-SR04)
-•	Servo Motor
-•	OLED Display
-•	Arduino UNO–1
+Ultrasonic Sensor (HC-SR04)
+Servo Motor
+OLED Display
+Arduino UNO–1
 Function
 This block detects obstacles and measures distance using a radar-like scanning method.
 Working
@@ -28,12 +28,12 @@ Example: 90,45
 ________________________________________
 BLOCK 3: LANDMINE DETECTION & ROBOT CONTROL (Arduino UNO–2)
 Components
-•	Arduino UNO–2
-•	DC Motors + Motor Driver
-•	Metal Detector Sensor
-•	Buzzer
-•	LEDs
-•	Bluetooth Module (HC-05)
+Arduino UNO–2
+DC Motors + Motor Driver
+Metal Detector Sensor
+Buzzer
+LEDs
+Bluetooth Module (HC-05)
 ________________________________________
 FUNCTIONAL OPERATIONS
 Robot Movement Control
@@ -64,8 +64,8 @@ This ensures human safety
 ________________________________________
  BLOCK 4: ALERT SYSTEM
 Components
-•	Buzzer
-•	LEDs
+Buzzer
+LEDs
 Function
 •	Provides audio-visual warning
 •	Activated during:
